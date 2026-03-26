@@ -1,23 +1,29 @@
 {
-    "version": "0.28.3-alpha",
+    "version": "0.29.0-alpha",
     "description": "6502 CPU and C64 emulator built with .NET and Avalonia",
     "homepage": "https://github.com/highbyte/dotnet-6502",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.28.3-alpha/DotNet6502-Avalonia-win-x64.zip",
-            "hash": "PLACEHOLDER_WIN_X64"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.29.0-alpha/DotNet6502-Avalonia-win-x64.zip",
+            "hash": "789df5d1b9187167c6eb576d9a7b5eb36e46d8ddb42772e40aec41b0681c4a7e"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.28.3-alpha/DotNet6502-Avalonia-win-arm64.zip",
-            "hash": "PLACEHOLDER_WIN_ARM64"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.29.0-alpha/DotNet6502-Avalonia-win-arm64.zip",
+            "hash": "2df7bab8f178a024fecab5bc4242b250a6958c799896a18f2b0b9af61e1f32e2"
         }
     },
     "bin": [
-        ["Highbyte.DotNet6502.App.Avalonia.Desktop.exe", "dotnet-6502"]
+        [
+            "Highbyte.DotNet6502.App.Avalonia.Desktop.exe",
+            "dotnet-6502"
+        ]
     ],
     "shortcuts": [
-        ["Highbyte.DotNet6502.App.Avalonia.Desktop.exe", "DotNet6502 Emulator"]
+        [
+            "Highbyte.DotNet6502.App.Avalonia.Desktop.exe",
+            "DotNet6502 Emulator"
+        ]
     ],
     "checkver": {
         "github": "https://github.com/highbyte/dotnet-6502"
