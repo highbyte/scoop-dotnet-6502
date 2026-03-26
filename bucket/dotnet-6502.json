@@ -13,7 +13,9 @@
             "hash": "PLACEHOLDER_WIN_ARM64"
         }
     },
-    "bin": "Highbyte.DotNet6502.App.Avalonia.Desktop.exe",
+    "bin": [
+        ["Highbyte.DotNet6502.App.Avalonia.Desktop.exe", "dotnet-6502"]
+    ],
     "shortcuts": [
         ["Highbyte.DotNet6502.App.Avalonia.Desktop.exe", "DotNet6502 Emulator"]
     ],
