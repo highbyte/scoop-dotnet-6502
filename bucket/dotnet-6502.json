@@ -1,16 +1,16 @@
 {
-    "version": "0.29.3-alpha",
+    "version": "0.29.4-alpha",
     "description": "6502 CPU and C64 emulator built with .NET and Avalonia",
     "homepage": "https://github.com/highbyte/dotnet-6502",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.29.3-alpha/DotNet6502-Avalonia-win-x64.zip",
-            "hash": "b5c92cdc79f6994cfe0ebc9449dd949222ef5cd1ebed1270665959738d33c699"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.29.4-alpha/DotNet6502-Avalonia-win-x64.zip",
+            "hash": "9eaeda2149112a4e1d6ce803cd4650c4bee7e323b1110f660cef43299d3d4a96"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.29.3-alpha/DotNet6502-Avalonia-win-arm64.zip",
-            "hash": "c6156a6aa2e84426e00e979b9eaebfa36b19a1c9aa2a0ac4075f3bad9607e9b5"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.29.4-alpha/DotNet6502-Avalonia-win-arm64.zip",
+            "hash": "fb5dd0c8c3e6562b552be09d5276a60d8ab664b67faa1847b300e47717c8618c"
         }
     },
     "bin": [
