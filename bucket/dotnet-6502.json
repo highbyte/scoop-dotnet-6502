@@ -22,7 +22,7 @@
     "shortcuts": [
         [
             "Highbyte.DotNet6502.App.Avalonia.Desktop.exe",
-            "DotNet6502 Emulator"
+            "DotNet 6502 Emulator"
         ]
     ],
     "checkver": {
