@@ -1,16 +1,16 @@
 {
-    "version": "0.31.2-alpha",
+    "version": "0.31.3-alpha",
     "description": "Remote control CLI client for the dotnet-6502 emulator",
     "homepage": "https://github.com/highbyte/dotnet-6502",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.31.2-alpha/DotNet6502-RemoteClient-win-x64.zip",
-            "hash": "3616271de9f11162a2902afe75d1e330bb6aa79eec8bf3ee3875e230839d01c1"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.31.3-alpha/DotNet6502-RemoteClient-win-x64.zip",
+            "hash": "a67ad0ff46038ca2bd8dc50ab7f5e5d2b851f72a13290c66d536c719f8f0208e"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.31.2-alpha/DotNet6502-RemoteClient-win-arm64.zip",
-            "hash": "db96845e09016824f1ceb0f3fae66a58a6e7de35efe3d70303e38f955d693f67"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.31.3-alpha/DotNet6502-RemoteClient-win-arm64.zip",
+            "hash": "ab6c6e09f7107f027b14111a841ea3ade831e5ef2e3b813bab6a078d6c4e6df7"
         }
     },
     "bin": [
