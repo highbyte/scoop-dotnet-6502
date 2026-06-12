@@ -9,6 +9,7 @@ Scoop bucket for the [DotNet6502](https://github.com/highbyte/dotnet-6502) emula
 | `dotnet-6502` | 6502 CPU and C64 emulator built with .NET and Avalonia (desktop GUI) |
 | `dotnet-6502-headless` | Headless 6502/C64 emulator driven by CLI arguments and Lua scripts |
 | `dotnet-6502-remote` | Remote control CLI client for the dotnet-6502 emulator |
+| `dotnet-6502-terminal` | Interactive terminal (TUI) 6502/C64 emulator host |
 
 ## Installation
 
@@ -24,6 +25,7 @@ Then install the app(s) you want:
 scoop install dotnet-6502
 scoop install dotnet-6502-headless
 scoop install dotnet-6502-remote
+scoop install dotnet-6502-terminal
 ```
 
 ## Updating
@@ -32,6 +34,7 @@ scoop install dotnet-6502-remote
 scoop update dotnet-6502
 scoop update dotnet-6502-headless
 scoop update dotnet-6502-remote
+scoop update dotnet-6502-terminal
 ```
 
 ## Uninstalling
@@ -40,5 +43,6 @@ scoop update dotnet-6502-remote
 scoop uninstall dotnet-6502
 scoop uninstall dotnet-6502-headless
 scoop uninstall dotnet-6502-remote
+scoop uninstall dotnet-6502-terminal
 scoop bucket rm dotnet-6502
 ```
