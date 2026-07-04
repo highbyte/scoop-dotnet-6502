@@ -19,6 +19,9 @@
             "dotnet-6502-headless"
         ]
     ],
+    "post_install": [
+        "Set-Content -Path \"$dir\\install-channel\" -Value 'scoop'"
+    ],
     "checkver": {
         "github": "https://github.com/highbyte/dotnet-6502"
     },
