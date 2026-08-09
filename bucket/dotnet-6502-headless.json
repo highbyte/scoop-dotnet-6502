@@ -1,16 +1,16 @@
 {
-    "version": "0.42.1-alpha",
+    "version": "0.42.2-alpha",
     "description": "Headless 6502/C64 emulator driven by CLI arguments and Lua scripts",
     "homepage": "https://github.com/highbyte/dotnet-6502",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.42.1-alpha/DotNet6502-Headless-win-x64.zip",
-            "hash": "a47812660f219f2a27bea70134891ecdf1517be0c6eb58f3d8005028abf58557"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.42.2-alpha/DotNet6502-Headless-win-x64.zip",
+            "hash": "30dba172fe6db12b6cc030212e3d42b80f3b62ae4c4121f93801dd658528e12a"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.42.1-alpha/DotNet6502-Headless-win-arm64.zip",
-            "hash": "c0c223ff49f57c61a0ead7f6c04a14ea955ad0b8b468cdfec2a9b62e1ca1687f"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.42.2-alpha/DotNet6502-Headless-win-arm64.zip",
+            "hash": "558c4c23ad2bbfae10d18bbec7e001546671b9f57f26d844026a6aa062899a60"
         }
     },
     "bin": [
