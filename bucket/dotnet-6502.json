@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-Avalonia-win-x64.zip",
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.2-alpha/DotNet6502-Avalonia-win-x64.zip",
             "hash": "7e4ff02c7335d9a1ccf527e34a374ad5394557ffa658eb2cb365547db204859c"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-Avalonia-win-arm64.zip",
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.2-alpha/DotNet6502-Avalonia-win-arm64.zip",
             "hash": "646edb299cb620273c968bfe144b49311e3111af12d6d530ba07fdc3045d0a74"
         }
     },

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-RemoteClient-win-x64.zip",
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.2-alpha/DotNet6502-RemoteClient-win-x64.zip",
             "hash": "fd1202d47425073a59d0ac136d6c653b566dc7b360c49596c9c8a297fa4027ba"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-RemoteClient-win-arm64.zip",
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.2-alpha/DotNet6502-RemoteClient-win-arm64.zip",
             "hash": "39e4cef811e1c53f13dfb3612422bbd1f7f6072b52278b14b8935bafef12381c"
         }
     },
