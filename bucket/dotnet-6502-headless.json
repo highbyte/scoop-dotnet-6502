@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-Headless-win-x64.zip",
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.2-alpha/DotNet6502-Headless-win-x64.zip",
             "hash": "cf74213cc978235fc317b890e145a676f718ea53ca3f0dc0df83a0447958acca"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-Headless-win-arm64.zip",
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.2-alpha/DotNet6502-Headless-win-arm64.zip",
             "hash": "c9f80a330233a72ba09fd7af927e5d8d06bff530ba9d64d58ea7e8c89c28188a"
         }
     },
