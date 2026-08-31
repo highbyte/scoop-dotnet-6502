@@ -1,16 +1,16 @@
 {
-    "version": "0.44.1-alpha",
+    "version": "0.44.2-alpha",
     "description": "Interactive terminal (TUI) 6502/C64 emulator host",
     "homepage": "https://github.com/highbyte/dotnet-6502",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.1-alpha/DotNet6502-Terminal-win-x64.zip",
-            "hash": "23050bdde96aa2880b24cd204698c79026ab1980faa0e84de066ac7428df8fc3"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-Terminal-win-x64.zip",
+            "hash": "400c3b61f3d461909f3eed7ea4d0f0ed643aca9591132ba16f0f565b070f1144"
         },
         "arm64": {
-            "url": "https://github.com/highbyte/dotnet-6502/releases/download/v0.44.1-alpha/DotNet6502-Terminal-win-arm64.zip",
-            "hash": "b8db1fe5981747cf8015ca34a994ceb1a74c32a56961b78064acd5c8428c8a87"
+            "url": "https://github.com/highbyte/dotnet-6502/releases/download/0.44.2-alpha/DotNet6502-Terminal-win-arm64.zip",
+            "hash": "64773a43295d7b8f907fd1e4965e0cfc701b1375c6191f6778fcdab7e5864a80"
         }
     },
     "bin": [
